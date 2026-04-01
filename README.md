@@ -1,0 +1,21 @@
+
+
+# Sales Performance Analysis Dashboard
+
+![Dashboard](Sales-Performance-Analysis)
+
+## 📊 Overview
+
+This project analyzes sales performance using Excel to understand trends and insights.
+
+## 🛠 Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Charts
+
+## 📌 Key Features
+
+* Region-wise analysis
+* Performance tracking
+* Trend visualization

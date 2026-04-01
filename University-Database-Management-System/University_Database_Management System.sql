@@ -1,5 +1,15 @@
-create database Assignment_3
-use Assignment_3
+-- =====================================
+-- University Database Management System
+-- =====================================
+
+-- Tables:
+-- Student_Table
+-- Professor_Table
+-- College_Table
+-- Department_Table
+
+-- This project demonstrates SQL operations like:
+-- SELECT, JOIN, UNION, ALTER, AGGREGATE FUNCTIONS
 
 /* ===============================
    TASK 1 : DATABASE AND TABLES

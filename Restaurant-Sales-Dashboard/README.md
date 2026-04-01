@@ -1,3 +1,5 @@
+![Dashboard](Restaurant-Dashboard.png)
+
 # Restaurant Sales Dashboard
 
 ## 📊 Overview

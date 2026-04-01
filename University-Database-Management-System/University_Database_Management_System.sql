@@ -1,3 +1,19 @@
+-- =====================================
+-- University Database Management System
+-- =====================================
+
+-- Tables:
+-- Student_Table
+-- Professor_Table
+-- College_Table
+-- Department_Table
+
+-- This project demonstrates SQL operations like:
+-- SELECT, JOIN, UNION, ALTER, AGGREGATE FUNCTIONS
+
+/* ===============================
+   TASK 1 : DATABASE AND TABLES
+   =============================== */
 
 /* ===============================
    TASK 1 : DATABASE AND TABLES
@@ -141,19 +157,19 @@ INNER JOIN Professor_Table P ON P.Professor_ID = D.Dept_ID
 INNER JOIN Student_Table S ON S.Professor_ID = P.Professor_ID;
 
 
--- 4 Create View
+-- 3 Create View
 CREATE VIEW [College_View] AS
 SELECT * FROM College_Table
 WHERE College_Name LIKE 'C%';
 
--- 5 Stored Procedure
+-- 4 Stored Procedure
 CREATE PROCEDURE GetProfessor
 @ID INT
 AS
 SELECT * FROM Professor_Table
 WHERE Professor_ID = @ID;
 
--- Execute
+--5 Execute
 EXEC GetProfessor 5;
 
 -- 6 Rename table

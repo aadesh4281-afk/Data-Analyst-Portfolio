@@ -1,28 +1,29 @@
-
 # University Database Management System (SQL)
 
 ## 📊 Overview
 
-This project involves designing and managing a university database using SQL. It includes tables for students, courses, and enrollments.
+This project involves creating and managing a university database using SQL. It includes tables for students, professors, and colleges, along with multiple queries for data analysis.
 
 ## 🛠 Tools Used
 
-* SQL (MySQL / PostgreSQL)
+* SQL
 
 ## 📌 Key Features
 
-* Database creation (tables, relationships)
-* Data insertion and management
-* Queries for data retrieval and analysis
-* Joins, aggregations, and filtering
+* Table creation and modification
+* Data retrieval using SELECT queries
+* Aggregate functions (SUM, COUNT, AVG)
+* Advanced queries using JOIN and UNION
+* Data filtering using WHERE and LIKE
 
 ## 📈 SQL Concepts Used
 
-* SELECT, WHERE, GROUP BY
-* JOIN (INNER, LEFT)
-* Aggregate Functions (SUM, COUNT, AVG)
-* Subqueries
+* SELECT, WHERE
+* JOIN (Inner Join)
+* UNION
+* ALTER TABLE
+* Aggregate Functions
 
 ## 🎯 Conclusion
 
-This project demonstrates strong SQL skills for database design and querying.
+This project demonstrates strong SQL fundamentals and the ability to work with relational databases.

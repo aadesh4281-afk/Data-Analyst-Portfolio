@@ -1,4 +1,4 @@
-
+![Dashboard](dashboard.png)
 
 # Automobile Sales Dashboard (Power BI)
 

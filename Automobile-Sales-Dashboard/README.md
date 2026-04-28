@@ -1,30 +1,35 @@
-![Dashboard](dashboard.png)
+# Automobile Sales Analysis using Power BI
 
-# Automobile Sales Dashboard (Power BI)
+## Overview
 
-## 📊 Overview
+This project analyzes automobile sales data to uncover key business insights, identify top-performing brands, and support data-driven decision making.
 
-This project focuses on analyzing automobile sales data to understand business performance, trends, and profitability.
-
-## 🛠 Tools Used
+## Tools Used
 
 * Power BI
 * Power Query
 * DAX
 
-## 📌 Key Features
+## Key Features
 
 * KPI tracking: Total Sales, Profit, Net Profit
 * Brand-wise and country-wise performance analysis
 * Monthly sales trend visualization
 * Interactive dashboard with filters
 
-## 📈 Insights
+## Insights
 
-* Identified top-performing brands contributing highest revenue
-* Observed variation in sales across different countries
-* Highlighted models generating maximum profit
+* Aston Martin generated the highest sales (~11M)
+* Rolls Royce contributed high profit (~4.2M)
+* Sales peaked around 2015 (~1.5M monthly)
+* Sales vary across different countries
 
-## 🎯 Conclusion
+## Business Impact
 
-The dashboard helps in making data-driven decisions related to pricing, marketing, and expansion strategies.
+* Helps identify top-performing brands for better inventory planning
+* Supports pricing and discount strategies
+* Highlights underperforming areas for improvement
+
+## Conclusion
+
+This dashboard helps in making data-driven decisions related to pricing, marketing, and expansion strategies.
